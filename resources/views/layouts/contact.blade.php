@@ -1,5 +1,4 @@
 
-<!-- Contact -->
     <section id="contact">
         <div class="inner">
             <section>

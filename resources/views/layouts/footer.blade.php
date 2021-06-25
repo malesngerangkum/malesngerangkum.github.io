@@ -1,5 +1,4 @@
 
-<!-- Footer -->
     <footer id="footer">
         <div class="inner">
             <ul class="icons">

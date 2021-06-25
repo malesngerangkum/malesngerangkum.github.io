@@ -41,7 +41,7 @@
 										<img src="images/pic01.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="src/kurikulum-nasional.html" class="link">Kurikulum Nasional</a></h3>
+										<h3><a href="/kurikulum-nasional" class="link">Kurikulum Nasional</a></h3>
 									</header>
 								</article>
 								<article style="width:50%;">
@@ -49,7 +49,7 @@
 										<img src="images/pic02.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="src/kurikulum-cambridge.html" class="link">Cambridge IGCSE & A level</a></h3>
+										<h3><a href="/kurikulum-cambridge" class="link">Cambridge IGCSE & A level</a></h3>
 									</header>
 								</article>
 							</section>

@@ -8,13 +8,17 @@ class PagesController extends Controller
 {
     public function index()
     {
-        $title = 'Males Ngerangkum - Rangkuman Buat Kamu Yang Mau Ujian';
+        $title = 'Males Ngerangkum - Rangkuman Buat Kamu Yang Besok Mau Ujian';
         return view('index', compact('title'));
     }
 
-    public function about()
+    public function preview($name, $id=null, $title='')
     {
-        $title = 'Males Ngerangkum - Tentang Kami';
-        return view('tentang-kami', compact('title'));
+        if (is_null($id))
+        {
+            $title = 'Males Ngerangkum - ' . $title;
+            return view($name, compact('title'));
+        }
+        else return compact($name, $id);
     }
 }

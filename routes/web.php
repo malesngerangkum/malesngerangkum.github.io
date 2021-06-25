@@ -17,5 +17,7 @@ use App\Http\Controllers\PagesController;
 // Index
 Route::get('/', [PagesController::class, 'index']);
 
-// About
-Route::get('/tentang-kami', [PagesController::class, 'about']);
+// Preview
+Route::get('/{name}', [PagesController::class, 'preview']);
+
+Route::get('/{name}/{id}', [PagesController::class, 'preview']);
