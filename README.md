@@ -4,7 +4,7 @@ Males Ngerangkum adalah website yang bertujuan untuk menyediakan rangkuman
 bagi orang orang yang males ngerangkum dan butuh rangkuman.
 
 Template untuk website ini didasarkan pada Forty by HTML5 UP yang dilisensikan
-dengan CA 3.0 license (html5up.net/license)
+dengan CA 3.0 license (html5up.net/license).
 
 Credits:
 
